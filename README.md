@@ -1,0 +1,1 @@
+Inicie un curso de NodeJs con la idea de volver a traer ejercios creados con java(Ahorcado, estacionamiento, piedra-papel-tijera-lagarto-spok) y poder crear una pagina/app de escritorio que te permita elegir cual utilizar y en que idioma
